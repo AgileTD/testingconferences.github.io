@@ -113,11 +113,12 @@
   url: https://conference.eurostarsoft2waretesting.com/?utm_source=testingconferences
   twitter: esconfs
 
-- name: Agile Testing Days (ATD) USA 2022
+- name: Agile Testing Days (ATD) USA 2023
   location: Chicago, IL, USA
-  dates: "June 5-9, 2022"
+  dates: "May 22-24, 2023"
   url: https://agiletestingdays.us/?utm_source=testingconferences
-  twitter: AgileTDUSA
+  twitter: AgileTDZone
+  status: CFP open until SEPTEMBER 30, 2022.
 
 - name: Nordic Testing Days (NTD) 2022
   location: Tallinn, Estonia
